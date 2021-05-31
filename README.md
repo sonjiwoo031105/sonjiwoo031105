@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Son%Jiwoo&animation=twinkling&fontAlign=75)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonjiwoo031105&show_icons=true&disable_animations=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sonjiwoo031105&show_icons=true&disable_animations=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sonjiwoo031105&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsonjiwoo031105%2Fhit-counter&count_bg=%2380827E&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) 
